@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class example_for_six_point_thirtyone {
+public class Exercise06_31 {
 
   // First, define the main function
   public static void main(String[] args) {
@@ -132,3 +132,4 @@ public class example_for_six_point_thirtyone {
     return number; // return prefix
   }
 }
+
