@@ -1,4 +1,4 @@
-public class example_for_six_point_nine {
+public class Exercise06_09 {
     /** Convert from feet to meters */
   public static double footToMeter(double foot) {
     return foot * 3.279;
@@ -17,4 +17,5 @@ public class example_for_six_point_nine {
       System.out.println(i + ".0     " + meters + "             " + (i * 5) + ".0     " + feet); // print formatted
     }
   }
+
 }
