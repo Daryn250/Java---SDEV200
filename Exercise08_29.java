@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class example_for_eight_point_twentynine {
+public class Exercise08_29 {
     public static void main(String[] args) {
         int[][] array1 = get_2d_array(); // get array 1
         int[][] array2 = get_2d_array();
@@ -52,4 +52,5 @@ public class example_for_eight_point_twentynine {
         }
         return true; // return true if everything is the same
     }
+
 }
