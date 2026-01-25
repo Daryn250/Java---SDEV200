@@ -42,4 +42,5 @@ class RegularPolygon {
       return ((this.n * (this.side*this.side))/4*Math.tan(Math.PI/this.n));
     }
   
+
 }
