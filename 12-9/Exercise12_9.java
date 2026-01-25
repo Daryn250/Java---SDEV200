@@ -47,4 +47,5 @@ Implement the bin2Dec method to throw a BinaryFormatException if the string is n
 *12.7 (NumberFormatException) Write the bin2Dec(String binaryString) method to convert a binary string into a decimal number. 
 Implement the bin2Dec method to throw a NumberFormatException if the string is not a binary string. 
 Write a test program that prompts the user to enter a binary number as a string and displays its decimal equivalent. 
+
 If the method throws an exception, display "Not a binary number". */
